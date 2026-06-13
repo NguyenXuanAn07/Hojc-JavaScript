@@ -9,5 +9,3 @@ const allMyDiv = document.querySelectorAll(".XuanAn")
 console.log(allMyDiv)
 
 
-
-4 giowf 58p
